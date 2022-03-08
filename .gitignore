@@ -1,0 +1,5 @@
+*.pptx
+*.docx
+.DS_Store
+/Ejercicios/*.docx
+upload.sh
